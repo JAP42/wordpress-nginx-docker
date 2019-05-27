@@ -1,8 +1,9 @@
+**This is a work in progress, adapting mjstealey/wordpress-nginx-docker for multisite hosting with traefik. This is not for production use yet!**
+
 # WordPress: with Nginx web server in Docker
 
 This project is a docker compose installation of a single site WordPress instance using Nginx as the web server and MariaDB as the database.
 
-- Let's Encrypt SSL enabled option using [https://hub.docker.com/r/certbot/certbot/](https://hub.docker.com/r/certbot/certbot/)
 - Work inspired by: [Dockerizing WordPress with Nginx and PHP-FPM on Ubuntu 16.04](https://www.howtoforge.com/tutorial/dockerizing-wordpress-with-nginx-and-php-fpm/)
 
 **What is WordPress?** 
